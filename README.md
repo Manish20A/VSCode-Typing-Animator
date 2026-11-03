@@ -32,3 +32,5 @@
 
 ## 📄 License
 This project is open-source and free to be used for commercial or non-commercial purposes. Feel free to fork, modify, and improve!
+
+Deployed at: https://vscodetypinganimator.vercel.app/
